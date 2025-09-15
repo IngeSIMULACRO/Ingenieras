@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodSIMULACRO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b84dfb7112e190aabda14057b1502cf355892e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8722d0b86da7f1a77237b647c28111273e869eab")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodSIMULACRO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodSIMULACRO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
