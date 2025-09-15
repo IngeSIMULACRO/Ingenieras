@@ -9,8 +9,8 @@ namespace FoodSIMULACRO.Controllers
     [Route("api/[controller]")]
     public class BebidasController : ControllerBase
     {
-        private readonly FoodContext _context;
-        public BebidasController(FoodContext context) => _context = context;
+        private readonly AppDbContext _context;
+        public BebidasController(AppDbContext context) => _context = context;
 
         // GET: api/bebidas?color=Rojo
         [HttpGet]
